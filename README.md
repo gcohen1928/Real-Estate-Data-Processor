@@ -1,7 +1,7 @@
 # Welcome to the REAL ESTATE INVESTMENT TOOL 
 * I made this because I got sick of calculating all the juicy info when I went deal hunting on real esate listing websites.
 * So, run the program, answer the questions that it asks, and it will give you some useful data about homes in your area
-* The data output is a little jank as of now. Go to the website it prompts you to and insert the output to see it in a pretty way
+* The data output is a little jank as of now. Go to the website it prompts you to (https://codebeautify.org/jsonviewer)and insert the output to see it in a pretty way
 * I am working on makin this program a web app so stay tuned
 
 ### The program is currently limited at displaying one home in the zip code that you enter.
